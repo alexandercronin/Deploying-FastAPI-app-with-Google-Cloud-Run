@@ -44,3 +44,8 @@ ref: https://www.markhneedham.com/blog/2023/07/24/vscode-poetry-python-interpret
 
 # Mars Rover Photos Origin
 - https://api.nasa.gov/ 
+
+
+
+ # Fast API Responses References 
+ - https://fastapi.tiangolo.com/advanced/custom-response/
