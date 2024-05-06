@@ -40,3 +40,7 @@ ref: https://www.markhneedham.com/blog/2023/07/24/vscode-poetry-python-interpret
 4. use `CMD+P` to open the command pallet and then use `> python` to open the interpretor selector
 5. Then choose it  
 6. 
+
+
+# Mars Rover Photos Origin
+- https://api.nasa.gov/ 
